@@ -1,0 +1,6 @@
+C:\Users\sppatel\source\repos\Dapper\Dapper\obj\Debug\netcoreapp2.2\MyDapper.csprojAssemblyReference.cache
+C:\Users\sppatel\source\repos\Dapper\Dapper\obj\Debug\netcoreapp2.2\MyDapper.csproj.CoreCompileInputs.cache
+C:\Users\sppatel\source\repos\Dapper\Dapper\obj\Debug\netcoreapp2.2\MyDapper.AssemblyInfoInputs.cache
+C:\Users\sppatel\source\repos\Dapper\Dapper\obj\Debug\netcoreapp2.2\MyDapper.AssemblyInfo.cs
+C:\Users\sppatel\source\repos\Dapper\Dapper\obj\Debug\netcoreapp2.2\MyDapper.dll
+C:\Users\sppatel\source\repos\Dapper\Dapper\obj\Debug\netcoreapp2.2\MyDapper.pdb

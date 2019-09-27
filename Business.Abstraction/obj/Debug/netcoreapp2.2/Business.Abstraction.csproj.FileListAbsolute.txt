@@ -1,0 +1,12 @@
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\bin\Debug\netcoreapp2.2\Business.Abstraction.deps.json
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\bin\Debug\netcoreapp2.2\Business.Abstraction.dll
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\bin\Debug\netcoreapp2.2\Business.Abstraction.pdb
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\bin\Debug\netcoreapp2.2\Business.Entity.dll
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\bin\Debug\netcoreapp2.2\Business.Entity.pdb
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.csprojAssemblyReference.cache
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.AssemblyInfoInputs.cache
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.AssemblyInfo.cs
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.csproj.CopyComplete
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.dll
+C:\Users\sppatel\source\repos\Dapper\Business.Abstraction\obj\Debug\netcoreapp2.2\Business.Abstraction.pdb
